@@ -1,0 +1,9 @@
+<script src="highlightSelection.js"></script>
+
+<div>
+  <i>marzipan</i>
+  <u>sour cherry</u>
+  <b>lebkuchen</b>
+</div>
+
+<script src="select.js"></script>

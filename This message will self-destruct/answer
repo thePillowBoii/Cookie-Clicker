@@ -1,0 +1,3 @@
+<img src="fortune-cookie.jpg" ondblclick="openCookie()">
+
+<script src="fortune-cookie.js"></script>

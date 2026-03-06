@@ -1,0 +1,15 @@
+<script src="highlightSelection.js"></script>
+
+<h1>Mega Cookie Corp</h1>
+
+<p>
+  These scrumptious cookies are lovingly handmade <small>by our robots</small> and taste as nice as they look!
+</p>
+
+<p>
+  <button>Buy a cookie</button>
+</p>
+
+<img src="cookies.jpg" onClick="alert('Thanks for purchasing :D Have a mega nice day!')">
+
+<script src="select.js"></script>
